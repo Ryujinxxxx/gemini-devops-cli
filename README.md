@@ -9,6 +9,10 @@
 
 ---
 
+## 🎥 Demo
+
+![Demo](docs/demo.gif)
+
 ## 🔥 Overview
 
 **Gemini DevOps CLI** is a production-style AI assistant that brings **Google Gemini AI directly into your terminal**.
