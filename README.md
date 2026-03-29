@@ -1,4 +1,3 @@
-cat > README.md <<'EOF'
 # 🚀 Gemini DevOps CLI
 
 > AI-powered terminal assistant for Cloud, Kubernetes, and Infrastructure workflows
