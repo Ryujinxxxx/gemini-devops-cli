@@ -1,0 +1,2 @@
+Mar 29 09:10:01 server kubelet[1234]: Readiness probe failed: Get http://10.1.2.3:8080/healthz: connection refused
+Mar 29 09:10:04 server kubelet[1234]: Back-off restarting failed container

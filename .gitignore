@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+.DS_Store
+.gemini_cli_history.json
